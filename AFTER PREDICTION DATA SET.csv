@@ -1,0 +1,160 @@
+LOCATION DATA,ROAD CONDITION,WEATHER CONDITION,TIME OF DAY,VEHICAL SPEED,DRIVER BEHAVIOR,SURROUNDING INFRASTRUCTURE,TRAFFIC FLOW,ACCIDENT,MODEL PREDICTION,LIGHTS INSTALLATION
+Gulshan Iqbal,Dry,Clear Sky,Morning,Slow,Speeding,Intersection,High,Possible,Possible,YES
+Tower,Wet,Rainy,Evening,Normal,Reckless Driver,Crosswalk,High,Not Possible ,Not Possible ,NO
+Islamabad,Icy,Snowy,Afternoon,Fast,Impaired Driver,pedstrian,Low,Possible,Possible,YES
+Kharadar,Wet,Rainy,Night,Fast,Fatigue,pedstrian,Balanced,Not Possible ,Not Possible ,NO
+Multan,Icy,Snowy,Morning,Slow,Tailgating,Crosswalk,High,Not Possible ,Not Possible ,NO
+Agratag,Dry,Clear Sky,Morning,Slow,Distracted,Intersection,High,Possible,Possible,YES
+Korangi,Wet,Rainy,Night,Fast,Speeding,Bike lanes,Balanced,Possible,Possible,YES
+Bahawalpur,Sandy,Clear Sky,Afternoon,Fast,Fatigue,Roadway Lighting,Low,Not Possible ,Not Possible ,NO
+Quetta,Icy,Sleet,Evening,Normal,Impaired Driver,Residential Area,High,Not Possible ,Not Possible ,NO
+Malir,Dry,Windy,Evening,Normal,Fatigue,Construction Zones,High,Not Possible ,Not Possible ,NO
+Abbottabad,Muddy,Rainy,Morning,Slow,Tailgating,Public Area,High,Not Possible ,Not Possible ,NO
+Dadu Johi mor,Dry,Windy,Afternoon,Fast,Reckless Driver,Pedstrian Crossing,Low,Possible,Possible,YES
+Quetta,Icy,Sleet,Night,Fast,Distracted,Commercial Area,Balanced,Possible,Not Possible ,NO
+Sehwan,Flooded,Rainy,Morning,Slow,Impaired Driver,Houses Zones,High,Not Possible ,Not Possible ,NO
+Larkana,Wet,Rainy,Night,Fast,Distracted,Roadside Obstacles,Balanced,Possible,Not Possible ,NO
+Sekerand,Wet,Rainy,Afternoon,Fast,Impaired Driver,Park Area,Low,Possible,Possible,YES
+Gorakh,Muddy,Rainy,Afternoon,Fast,Fatigue,Proximity to schools,Low,Possible,Possible,YES
+Jamshoro Road,Dry,Clear Sky,Evening,Normal,Reckless Driver,Houses Zones,High,Not Possible ,Not Possible ,NO
+Multan,Dry,Clear Sky,Morning,Slow,Reckless Driver,Park Area,High,Not Possible ,Not Possible ,NO
+Karakoram Highway,Muddy,Windy,Afternoon,Fast,Distracted,Bike lanes,Low,Possible,Possible,YES
+Khudabad,Muddy,Windy,Evening,Normal,Fatigue,Crosswalk,High,Not Possible ,Not Possible ,NO
+Sun,Dry,Clear Sky,Night,Fast,Impaired Driver,Houses Zones,Balanced,Not Possible ,Not Possible ,NO
+Manjhad,Dry,Windy,Morning,Slow,Wrong-Way,Pedstrian Crossing,High,Possible,Possible,YES
+Saleem Centre(N.K),Muddy,Sleet,Night,Fast,Inattention,Public Area,Balanced,Not Possible ,Not Possible ,NO
+Johi,Flooded,Clear Sky,Afternoon,Fast,Ignor Trfc Rule,Crosswalk,Low,Possible,Possible,YES
+Johi,Flooded,Rainy,Evening,Normal,Wrong-Way,Bike lanes,High,Possible,Possible,YES
+Gujranwala,Muddy,Rainy,Morning,Slow,Distracted,Houses Zones,High,Not Possible ,Not Possible ,NO
+Sukkur,Wet,Sleet,Night,Fast,Fatigue,Commercial Area,Balanced,Not Possible ,Not Possible ,NO
+Okara,Slushy,Sleet,Afternoon,Fast,Reckless Driver,Public Area,Low,Possible,Possible,YES
+Mingora,Oil spill,Windy,Evening,Normal,Ignor Trfc Rule,Park Area,High,Possible,Possible,YES
+Quetta,Slushy,Windy,Night,Fast,Inattention,Pedstrian Crossing,Balanced,Possible,Not Possible ,NO
+Nawabshah,Muddy,Clear Sky,Morning,Slow,Impaired Driver,Roadside Obstacles,High,Not Possible ,Not Possible ,NO
+Quetta,Wet,Rainy,Afternoon,Fast,Ignor Trfc Rule,Buildings,Low,Possible,Possible,YES
+Gorakh,Dry,Windy,Evening,Normal,Fatigue,Proximity to schools,High,Not Possible ,Not Possible ,NO
+Dadu Johi mor,Dry,Clear Sky,Evening,Normal,Wrong-Way,Intersection,High,Possible,Possible,YES
+Gujrat,Muddy,Rainy,Morning,Slow,Impaired Driver,Bike lanes,High,Not Possible ,Possible,YES
+Gwadar,Slushy,Sleet,Night,Fast,Fatigue,Commercial Area,Balanced,Not Possible ,Not Possible ,NO
+Haripur,Wet,Sleet,Afternoon,Fast,Inattention,Proximity to schools,Low,Possible,Possible,YES
+Haripur,Wet,Clear Sky,Evening,Normal,Wrong-Way,Park Area,High,Possible,Possible,YES
+Gilgit Baltistan,Slushy,Snowy,Night,Fast,Ignor Trfc Rule,Houses Zones,Balanced,Possible,Not Possible ,NO
+Fata,Icy,Snowy,Night,Fast,Fatigue,Crosswalk,Balanced,Not Possible ,Not Possible ,NO
+Tharparkar,Muddy,Clear Sky,Afternoon,Fast,Impaired Driver,Roadside Obstacles,Low,Possible,Possible,YES
+Malir,Muddy,Clear Sky,Night,Fast,Distracted,Public Area,Balanced,Possible,Not Possible ,NO
+Suhrab Goth,Muddy,Windy,Morning,Slow,Impaired Driver,Public Area,High,Not Possible ,Not Possible ,NO
+Quetta,Slushy,Windy,Night,Fast,Fatigue,Park Area,Balanced,Not Possible ,Not Possible ,NO
+Sukkur,Muddy,Clear Sky,Afternoon,Fast,Inattention,Wall,Low,Possible,Possible,YES
+Rahimiyar khan,Dry,Clear Sky,Evening,Normal,Wrong-Way,Bank,High,Possible,Possible,YES
+Sehwan,Dry,Windy,Night,Fast,Reckless Driver,Police Station,Balanced,Not Possible ,Not Possible ,NO
+Quetta,Slushy,Snowy,Afternoon,Fast,Ignor Trfc Rule,Intersection,Low,Possible,Possible,YES
+Dadu Johi mor,Wet,Snowy,Morning,Slow,Inattention,Pedstrian Crossing,High,Not Possible ,Not Possible ,NO
+Johi,Wet,Windy,Afternoon,Fast,Fatigue,Houses Zones,Low,Possible,Possible,YES
+Quetta,Icy,Snowy,Night,Fast,Wrong-Way,Commercial Area,Balanced,Possible,Possible,YES
+Ziyarat,Muddy,Rainy,Evening,Normal,Impaired Driver,Bank,High,Not Possible ,Not Possible ,NO
+Tharparkar,Wet,Windy,Morning,Slow,Reckless Driver,Commercial Area,High,Not Possible ,Not Possible ,NO
+Murree,Slushy,Foggy,Night,Fast,Reckless Driver,Buildings,Balanced,Not Possible ,Not Possible ,NO
+Thar Desert,Muddy,Foggy,Afternoon,Fast,Overconfidence,Proximity to schools,Low,Possible,Possible,YES
+Dadu Johi mor,Muddy,Sleet,Night,Fast,Evasive Menuevers,Police Station,Balanced,Not Possible ,Not Possible ,NO
+Liyari Express,Wet,Windy,Evening,Normal,Overuse Horn,Intersection,High,Possible,Possible,YES
+Super highway sehwan,Wet,Rainy,Morning,Slow,Evasive Menuevers,Construction Zones,High,Not Possible ,Not Possible ,NO
+Skardu,Dry,Clear Sky,Afternoon,Fast,Inattention,Residential Area,Low,Possible,Possible,YES
+Malir,Dry,Foggy,Night,Fast,Impaired Driver,Public Area,Balanced,Not Possible ,Not Possible ,NO
+Ziyarat,Slushy,Sleet,Night,Fast,Ignor Trfc Rule,Public Area,Balanced,Possible,Possible,YES
+Sehwan,Flooded,Rainy,Evening,Normal,Wrong-Way,Road Surface,High,Possible,Possible,YES
+Sun,Flooded,Clear Sky,Night,Fast,Fatigue,Wall,Balanced,Not Possible ,Not Possible ,NO
+Saleem Centre(N.K),Muddy,Windy,Morning,Slow,Reckless Driver,Commercial Area,High,Not Possible ,Not Possible ,NO
+Quetta,Wet,Clear Sky,Afternoon,Fast,Wrong-Way,Houses Zones,Low,Possible,Possible,YES
+MirpurKhas,Slushy,Rainy,Night,Fast,Evasive Menuevers,Intersection,Balanced,Not Possible ,Not Possible ,NO
+Tandojam Super H.w,Dry,Clear Sky,Evening,Normal,Inattention,Pedstrian Crossing,High,Not Possible ,Not Possible ,NO
+Dadu Johi mor,Dry,Clear Sky,Night,Fast,Speeding,Crosswalk,Balanced,Not Possible ,Not Possible ,NO
+Quetta,Muddy,Rainy,Afternoon,Fast,Impaired Driver,Intersection,Low,Possible,Possible,YES
+Saleem Centre(N.K),Slushy,Snowy,Night,Fast,Fatigue,Pedstrian Crossing,Balanced,Not Possible ,Not Possible ,NO
+Chitral,Muddy,Foggy,Morning,Slow,Evasive Menuevers,Proximity to schools,High,Not Possible ,Not Possible ,NO
+Chaman,Slushy,Snowy,Night,Fast,Ignor Trfc Rule,Public Area,Balanced,Possible,Possible,YES
+Wahipandi,Muddy,Snowy,Evening,Normal,Overuse Horn,Crosswalk,High,Possible,Possible,YES
+Ziyarat,Slushy,Snowy,Night,Fast,Overconfidence,Bank,Balanced,Possible,Not Possible ,NO
+Dadu SP Chownk,Muddy,Rainy,Afternoon,Fast,Fatigue,Intersection,Low,Possible,Possible,YES
+Ziyarat,Slushy,Snowy,Night,Fast,Speeding,Police Station,Balanced,Not Possible ,Not Possible ,NO
+Sehwan,Dry,Clear Sky,Night,Fast,Overuse Horn,Residential Area,Balanced,Not Possible ,Not Possible ,NO
+Sehwan,Dry,Windy,Night,Fast,Impaired Driver,Road Surface,Balanced,Not Possible ,Not Possible ,NO
+Saleem Centre(N.K),Dry,Clear Sky,Evening,Normal,Inattention,Houses Zones,High,Not Possible ,Not Possible ,NO
+Saleem Centre(N.K),Muddy,Clear Sky,Afternoon,Fast,Ignor Trfc Rule,Commercial Area,Low,Possible,Possible,YES
+Dadu Johi mor,Dry,Clear Sky,Morning,Slow,Wrong-Way,Public Area,High,Possible,Possible,YES
+Agrataj Bihar colony,Slushy,Foggy,Afternoon,Fast,Fatigue,Construction Zones,Low,Possible,Not Possible ,NO
+Chaman,Slushy,Foggy,Morning,Slow,Evasive Menuevers,Pedstrian Crossing,High,Not Possible ,Possible,YES
+Sukkur,Dry,Clear Sky,Evening,Normal,Fatigue,Crosswalk,High,Not Possible ,Not Possible ,NO
+Mainwali,Wet,Rainy,Afternoon,Fast,Overconfidence,Public Area,Low,Possible,Possible,YES
+Malir,Wet,Rainy,Afternoon,Fast,Impaired Driver,Proximity to schools,Low,Not Possible ,Not Possible ,NO
+Gilgit Baltistan,Muddy,Foggy,Morning,Slow,Inattention,Bank,High,Not Possible ,Not Possible ,NO
+Gulshan Iqbal,Wet,Sleet,Afternoon,Fast,Overuse Horn,Commercial Area,Low,Possible,Possible,YES
+Ziyarat,Icy,Foggy,Afternoon,Fast,Evasive Menuevers,Park Area,Low,Possible,Possible,YES
+Quetta,Icy,Sleet,Morning,Slow,Speeding,Police Station,High,Not Possible ,Not Possible ,NO
+Mainwali,Flooded,Rainy,Evening,Normal,Overconfidence,Wall,High,Not Possible ,Not Possible ,NO
+Johi,Flooded,Rainy,Afternoon,Fast,Regard School Zone,Proximity to schools,Low,Possible,Possible,YES
+Malir,Wet,Rainy,Afternoon,Fast,Inattention,Crosswalk,Low,Possible,Not Possible ,NO
+Agrataj Bihar colony,Wet,Snowy,Night,Fast,Overconfidence,Bank,Balanced,Not Possible ,Not Possible ,NO
+Dadu Johi mor,Dry,Windy,Morning,Slow,Distracted,Houses Zones,High,Possible,Possible,YES
+Quetta,Wet,Foggy,Afternoon,Fast,Reckless Driver,Buildings,Low,Possible,Possible,YES
+Gulshan Iqbal,Muddy,Foggy,Afternoon,Fast,Distracted,Residential Area,Low,Possible,Possible,YES
+Gulshan Iqbal,Muddy,Snowy,Evening,Normal,Inattention,Commercial Area,High,Not Possible ,Possible,YES
+Gulshan Iqbal,Wet,Clear Sky,Morning,Slow,Distracted,Crosswalk,High,Possible,Possible,YES
+Liyari Express,Wet,Clear Sky,Night,Fast,Overuse Horn,Public Area,Low,Not Possible ,Possible,YES
+Quetta,Slushy,Sleet,Morning,Slow,Speeding,Construction Zones,High,Possible,Not Possible ,NO
+Sukkur,Muddy,Clear Sky,Afternoon,Fast,Evasive Menuevers,Houses Zones,Low,Not Possible ,Possible,YES
+Agrataj Bihar colony,Muddy,Windy,Evening,Normal,Impaired Driver,Intersection,High,Not Possible ,Not Possible ,NO
+Saleem Centre(N.K),Dry,Clear Sky,Night,Fast,Overconfidence,Park Area,Balanced,Possible,Not Possible ,NO
+Suhrab Goth,Dry,Windy,Morning,Slow,Evasive Menuevers,Buildings,High,Possible,Possible,YES
+Tariq Road,Muddy,Clear Sky,Afternoon,Fast,Speeding,Proximity to schools,Low,Not Possible ,Not Possible ,NO
+Murree,Slushy,Sleet,Evening,Normal,Distracted,proximity to Company,High,Not Possible ,Not Possible ,NO
+Islamabad,Muddy,Windy,Night,Fast,Speeding,Construction Zones,Balanced,Not Possible ,Not Possible ,NO
+Islamabad,Slushy,Foggy,Morning,Slow,Reckless Driver,Market,High,Not Possible ,Not Possible ,NO
+Murree,Wet,Snowy,Afternoon,Fast,Regard School Zone,Proximity to schools,Low,Possible,Possible,YES
+Sukkur,Dry,Foggy,Evening,Normal,Fatigue,Crosswalk,High,Possible,Not Possible ,NO
+Sehwan,Wet,Windy,Night,Fast,Ignor Trfc Rule,Public Area,Balanced,Not Possible ,Possible,YES
+Tandojam Super H.w,Wet,Rainy,Night,Fast,Impaired Driver,Road Surface,Balanced,Possible,Not Possible ,NO
+Gulshan Iqbal,Dry,Clear Sky,Afternoon,Fast,Distracted,Construction Zones,Low,Possible,Possible,YES
+Tower,Muddy,Windy,Evening,Normal,Speeding,Public Area,High,Possible,Not Possible ,NO
+Sukkur,Muddy,Sleet,Morning,Slow,Regard School Zone,Proximity to schools,High,Not Possible ,Possible,YES
+Sun,Wet,Rainy,Evening,Normal,Fatigue,Park Area,High,Not Possible ,Not Possible ,NO
+Manjhad,Dry,Windy,Night,Fast,Speeding,Bike lanes,Balanced,Possible,Possible,YES
+Johi,Flooded,Foggy,Afternoon,Fast,Ignor Trfc Rule,Proximity to schools,Low,Not Possible ,Possible,YES
+Jamshoro Road,Wet,Rainy,Evening,Normal,Speeding,Pedstrian Crossing,High,Not Possible ,Not Possible ,NO
+Dadu Johi mor,Muddy,Foggy,Evening,Normal,Speeding,Market,High,Possible,Not Possible ,NO
+Quetta,Oil spill,Clear Sky,Afternoon,Fast,Fatigue,Bank,Low,Not Possible ,Possible,YES
+Saleem Centre(N.K),Oil spill,Windy,Morning,Slow,Distracted,Wall,High,Possible,Not Possible ,NO
+Ziyarat,Icy,Sleet,Afternoon,Fast,Overconfidence,Buildings,Low,Possible,Possible,YES
+Quetta,Icy,Snowy,Evening,Normal,Ignor Trfc Rule,Road Surface,High,Not Possible ,Possible,YES
+Islamabad,Slushy,Sleet,Night,Fast,Impaired Driver,Ground,Balanced,Not Possible ,Not Possible ,NO
+North Nazmabad,Wet,Windy,Morning,Slow,Ignor Trfc Rule,proximity to Company,High,Possible,Possible,YES
+Shershah,Dry,Windy,Afternoon,Fast,Fatigue,Public Area,Low,Possible,Possible,YES
+Dadu Johi mor,Dry,Clear Sky,Evening,Normal,Distracted,Buildings,High,Possible,Possible,YES
+Karakoram Highway,Muddy,Foggy,Night,Fast,Speeding,Residential Area,Balanced,Not Possible ,Not Possible ,NO
+Dadu Johi mor,Muddy,Foggy,Morning,Slow,Speeding,Police Station,High,Possible,Not Possible ,NO
+Johi,Flooded,Windy,Afternoon,Fast,Fatigue,Hospital Area,Low,Not Possible ,Possible,YES
+Gorakh,Slushy,Sleet,Evening,Normal,Overuse Horn,Play Ground,High,Possible,Possible,YES
+Dadu SP Chownk,Muddy,Rainy,Morning,Slow,Speeding,Wall,High,Not Possible ,Not Possible ,NO
+Dadu cenema chowk,Wet,Rainy,Night,Fast,Speeding,Pedstrian Crossing,Balanced,Not Possible ,Not Possible ,NO
+Sukkur,Muddy,Sleet,Afternoon,Fast,Ignor Trfc Rule,Bike lanes,Low,Possible,Possible,YES
+Dadu Johi mor,Dry,Windy,Evening,Normal,Ignor Trfc Rule,Crosswalk,High,Possible,Possible,YES
+Gorakh,Dry,Windy,Night,Fast,Speeding,Hospital Area,Balanced,Possible,Not Possible ,NO
+North Nazmabad,Muddy,Foggy,Morning,Slow,Speeding,Houses Zones,High,Not Possible ,Possible,YES
+Johi,Flooded,Snowy,Afternoon,Fast,Impaired Driver,Public Area,Low,Possible,Possible,YES
+Saleem Centre(N.K),Dry,Foggy,Evening,Normal,Ignor Trfc Rule,Construction Zones,High,Possible,Not Possible ,NO
+Saleem Centre(N.K),Dry,Windy,Morning,Slow,Ignor Trfc Rule,Commercial Area,High,Not Possible ,Not Possible ,NO
+Karakoram Highway,Wet,Rainy,Evening,Normal,Distracted,Party Hall,High,Not Possible ,Not Possible ,NO
+Johi,Muddy,Rainy,Night,Fast,Speeding,Ground,Balanced,Possible,Not Possible ,NO
+Quetta,Slushy,Sleet,Evening,Normal,Overconfidence,Play Ground,High,Possible,Possible,YES
+Agrataj Bihar colony,Muddy,Sleet,Morning,Slow,Fatigue,Pedstrian Crossing,High,Not Possible ,Not Possible ,NO
+North Nazmabad,Wet,Rainy,Afternoon,Fast,Distracted,Bike lanes,Low,Possible,Possible,YES
+Tower,Dry,Windy,Night,Fast,Inattention,Market,Balanced,Not Possible ,Not Possible ,NO
+Suhrab Goth,Wet,Rainy,Morning,Slow,Impaired Driver,Market,High,Possible,Not Possible ,NO
+Quetta,Slushy,Sleet,Afternoon,Fast,Ignor Trfc Rule,Bank,Low,Possible,Possible,YES
+Suhrab Goth,Muddy,Snowy,Evening,Normal,Ignor Trfc Rule,Commercial Area,High,Not Possible ,Not Possible ,NO
+Ziyarat,Icy,Snowy,Morning,Slow,Ignor Trfc Rule,Construction Zones,High,Not Possible ,Not Possible ,NO
+Karakoram Highway,Oil spill,Clear Sky,Night,Fast,Speeding,Public Area,Balanced,Not Possible ,Not Possible ,NO
+Saleem Centre(N.K),Oil spill,Windy,Evening,Normal,Distracted,Ground,High,Possible,Not Possible ,NO
+Johi,Flooded,Rainy,Afternoon,Fast,Ignor Trfc Rule,Intersection,Low,Not Possible ,Possible,YES
+Tower,Dry,Clear Sky,Evening,Normal,Fatigue,Road Surface,High,Possible,Not Possible ,NO
+Saleem Centre(N.K),Muddy,Rainy,Night,Fast,Speeding,Police Station,Balanced,Not Possible ,Not Possible ,NO
+Sukkur,Dry,Windy,Morning,Slow,Overuse Horn,Houses Zones,High,Possible,Possible,YES
